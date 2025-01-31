@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khushim14
 - 👀 I’m interested in Designing
-- 🌱 I’m currently learning coding
+- 🌱 I code sometimes
 - 💞️ I’m looking to collaborate on data science projects & web design
 - 📫 How to reach me just send me a message
 - 😄 Pronouns: she/her
